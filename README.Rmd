@@ -1,0 +1,40 @@
+---
+title: "Coding for Data Science Project: A shiny app to visualize VACCINATION CAMPAIGN"
+author: "Andrea Pio Cutrera - 965591"
+date: "4/9/2021"
+output: pdf_document
+---
+
+## Shiny App for Vaccine
+
+This is a shiny app that makes an easy visualization of the Vaccination Campaign in Italy. The APP scrapes data from the open repository of the Civil Protection Department of Italy <https://github.com/italia/covid19-opendata-vaccini>.
+
+In the upper left part of the page, there is a side bar panel which allows to select the Region of interest and the particular Vaccine. Once selected, a plot of the distribution between the Age Range is given in output.
+
+In order to run this app there are some requirements.
+```R
+library(shiny)
+library(ggplot)
+library(shinythemes)
+```
+
+This is an App <http://rmarkdown.rstudio.com>.
+
+
+```R
+shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
+```
+You can embed an R code chunk like this:
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
