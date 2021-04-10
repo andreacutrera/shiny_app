@@ -3,7 +3,7 @@
 
 This is a shiny app that makes an easy visualization of the **Vaccination Campaign against SARS-CoV-2** in Italy started in 27-12-2020.
 The App scrapes data from the open repository of the **Civil Protection Department of Italy** (<https://github.com/italia/covid19-opendata-vaccini>), which makes a daily update of detailed data at regional level.
-There are three sections accessible in the upper panel, and they are in order from the left to the right:
+There are three sections accessible in the upper panel, and they are (in order from the left to the right): Age Ranges, Best Regions and Analysis.
 ### Section 1 - Age Ranges
 In the upper left part of the page, there is a side bar panel from which you can select:
 - the Region of interest
