@@ -7,6 +7,6 @@ The APP scrapes data from the open repository of the Civil Protection Department
 In the upper left part of the page, there is a side bar panel which allows to select the _Region_ of interest and the particular _Vaccine_.
 Once selected, a plot of the distribution between the _Age Range_ is given in output.
 
-'''R
+```
 shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
-'''
+```
