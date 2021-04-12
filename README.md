@@ -19,17 +19,7 @@ Here you can visualize an interactive pie chart in which you can select:
 Percentages of doses, split between men and woman, are plotted in a pie chart.
 ### How to run the Application
 #### Specific commands
-In order to run this app there are some **requirements**. 
-```R
-requirements <- c("shiny", "shinythemes", "ggplot2", "plotly", "highcharter")
-```
-If you have NOT already installed them, run the following code lines to install them on your local device:
-```R
-requirements <- c("shiny", "shinythemes", "ggplot2", "plotly", "highcharter")
-install.packages(requirements)
-```
-Once installed, you have all you need to make the app to work on your local pc; 
-Execute the following line on your console to run the app:
+In order to run this app execute the following line on your console:
 ```
 shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
 ```
