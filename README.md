@@ -23,7 +23,11 @@ In order to run this app execute the following line on your console:
 ```
 shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
 ```
-
+### References
+- <https://www.who.int/emergencies/diseases/novel-coronavirus-2019>
+- <https://www.who.int/health-topics/vaccines-and-immunization#tab=tab_1>
+- <https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/treatments-vaccines/vaccines-covid-19/covid-19-vaccines-key-facts>
+- <https://www.iss.it/vaccini-covid-19>
 
 
 
