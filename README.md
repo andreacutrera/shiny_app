@@ -1,17 +1,19 @@
-# Coding for Data Science Project: A shiny app to visualize VACCINATION CAMPAIGN against SARS-CoV-2
-### Andrea Pio Cutrera - Matriculation Number: 965591
+## Coding for Data Science Project: A shiny app to visualize VACCINATION CAMPAIGN against SARS-CoV-2 in Italy
+#### Andrea Pio Cutrera - Matriculation Number: 965591
 
-This is a shiny app that makes an easy visualization of the **Vaccination Campaign against SARS-CoV-2** in Italy started in `27-12-2020`.
+This is a _Shiny App_ that makes an easy visualization of the **Vaccination Campaign** against **SARS-CoV-2** in Italy started in `27-12-2020`.
 The App scrapes data from the open repository of the **Civil Protection Department of Italy** (<https://github.com/italia/covid19-opendata-vaccini>), which makes a daily update of detailed data at regional level.
-There are three sections accessible in the upper panel, and they are (in order from the left to the right): `Age Ranges`, `Best Regions` and `Analysis`.
+
+There are three sections accessible in the upper panel, and they are named (in order from the left to the right): `Age Ranges`, `Best Regions` and `Analysis`.
 
 ### Section 1 - Age Ranges
-In the upper left part of the page, there is a side bar panel from which you can select:
-- the Region of interest
-- the particular Vaccine dose (`Pfizer/BionTech` - `VaxRevia-(AstraZeneca)` - `Moderna`)
-- the variable of interest (absolute numbers of Males, Females, First Doses, Second Doses)
 
-The output plot shows the absolute numbers of vaccine doses submitted in the last day of update in the group ages from `16` to `90+`.
+In this section in the upper left part of the page, there is a side bar panel from which you can select:
+- the Region of interest (`19 Regions` and `2 Autonomous Provinces`)
+- the particular Vaccine dose (`Pfizer/BionTech` - `VaxRevia-(AstraZeneca)` - `Moderna`)
+- the variable of interest (absolute numbers of `Males`, `Females`, `First Doses`, `Second Doses`)
+
+The output plot shows the absolute numbers of vaccine doses submitted in the last day of update (update occurs usually at 05:00 p.m. ...)in the group ages from `16` to `90+`.
 
 ### Section 2 - Best Regions
 Here you can select the number of `best-scoring Regions` in doses usage, and an ordered bar chart in output describes the percentages of doses used on patients as a share of the total doses received.
