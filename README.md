@@ -71,7 +71,7 @@ shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
 - European Medicines Agency: COVID-19 vaccines, key facts  <https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/treatments-vaccines/vaccines-covid-19/covid-19-vaccines-key-facts>
 - Istituto Superiore di Sanità: Vaccini <https://www.iss.it/vaccini-covid-19>
 
-
+### Soon on Shinyapps.io
 
 
 
