@@ -13,13 +13,15 @@ In this section in the upper left part of the page, there is a side bar panel fr
 - the particular Vaccine dose (`Pfizer/BionTech` - `VaxRevia-(AstraZeneca)` - `Moderna`)
 - the variable of interest (absolute numbers of `Males`, `Females`, `First Doses`, `Second Doses`)
 
-The output plot shows the absolute numbers of vaccine doses submitted in the last day of update (update occurs usually at 05:00 p.m. ...)in the group ages from `16` to `90+`.
+The output plot shows the absolute numbers of vaccine doses submitted in the last day of update (update occurs usually at 05:00 p.m. CEST) in 9 groups of ages from `16` to `90+`, since the `eligible people to the vaccine` are the subset of population older than 16 (`50,773,718`).
 
 ### Section 2 - Best Regions
-Here you can select the number of `best-scoring Regions` in doses usage, and an ordered bar chart in output describes the percentages of doses used on patients as a share of the total doses received.
+
+In this section you can select from a slider the number of `best-scoring Regions` in doses usage; an ordered bar chart (descending) in output describes the percentages of doses used on patients as a share of the total doses received by the central Government. So the value of the bar is a percentage.
 
 ### Section 3 - Analysis
-Here you can visualize an interactive pie chart in which you can select:
+
+In this section you can visualize an interactive `pie chart` in which you can select:
 - the Region of interest
 - the particular Vaccine dose (_Pfizer/BionTech - Vaxzevria (AstraZeneca) - Moderna_)
 - the age range
@@ -28,10 +30,14 @@ Percentages of doses, split between `Men` and `Women`, are plotted in a pie char
 
 ### How to run the Application
 #### Specific commands
+
 In order to run this app execute the following line on your console:
 ```
 shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
 ```
+### Author/Copyright
+2021 (c) Andrea Pio Cutrera.
+
 ### References
 - <https://www.who.int/emergencies/diseases/novel-coronavirus-2019>
 - <https://www.who.int/health-topics/vaccines-and-immunization#tab=tab_1>
