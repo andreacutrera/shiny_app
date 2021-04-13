@@ -14,7 +14,7 @@
 
 
 This is a _Shiny App_ that makes an easy visualization of the **Vaccination Campaign** against **SARS-CoV-2** in Italy started in `27-12-2020`.
-The App scrapes data from the open repository of the **Civil Protection Department of Italy** (<https://github.com/italia/covid19-opendata-vaccini>), which makes a daily update of detailed data at regional level in order to report transparently the surveillance of the _Extraordinary Commissioner of the Prime Minister_ for the contrast to Covid-19 (<https://www.governo.it/it/cscovid19>).
+The App scrapes data from the open repository of the **_Extraordinary Commissioner for Covid-19 Emergency of the Ministry Council_** (<https://github.com/italia/covid19-opendata-vaccini>), which makes a daily update of detailed data at regional level in order to report transparently the surveillance  for the contrast to Covid-19 (<https://www.governo.it/it/cscovid19>).
 
 There are three sections accessible in the upper panel, and they are named (in order from the left to the right): `Age Ranges`, `Best Regions` and `Analysis`.
 
