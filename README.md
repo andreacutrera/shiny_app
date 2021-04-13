@@ -1,5 +1,5 @@
 
-<h1 align="center">Coding for Data Science Project: A Shiny App to visualize _Vaccination Campaign_ against SARS-CoV-2 in Italy</h1>
+<h1 align="center">Coding for Data Science Project</h1>
 
 <div align="center">
 <img src="logo.png" width="150">
@@ -9,7 +9,7 @@
 </div>
 <br />
 
-### Coding for Data Science Project: A shiny app to visualize VACCINATION CAMPAIGN against SARS-CoV-2 in Italy
+### : A Shiny App to visualize _Vaccination Campaign_ against SARS-CoV-2 in Italy
 #### Andrea Pio Cutrera - Matriculation Number: 965591
 
 
