@@ -9,6 +9,8 @@
 </div>
 <br />
 
+The app is reachable at: <https://andreacutrera.shinyapps.io/shiny_app/>
+
 ## A Shiny App to visualize _Vaccination Campaign_ against SARS-CoV-2 in Italy
 ### Andrea Pio Cutrera - Matriculation Number: 965591
 
