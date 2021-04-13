@@ -43,7 +43,8 @@ Percentages of doses, split between `Men` and `Women`, are plotted in a pie char
 ### How to run the Application
 #### Specific commands
 
-In order to run this app execute the following line on your console:
+In order to run this app, you must have R (<>) and RStudio (<>) installed on your personal computer.
+Then you can execute the following line on your R console:
 ```
 shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
 ```
@@ -56,6 +57,16 @@ shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
 - <https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/treatments-vaccines/vaccines-covid-19/covid-19-vaccines-key-facts>
 - <https://www.iss.it/vaccini-covid-19>
 
+### Downloading and Installing 
+#### R 
+
+- R for Linux (<https://cran.r-project.org>)
+- R for (Mac) OS X (<https://cran.r-project.org>)
+- R for Windows (<https://cran.r-project.org>)
+
+#### RStudio
+
+- (<https://www.rstudio.com/products/rstudio/download/#download>)
 
 
 
