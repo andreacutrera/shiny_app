@@ -9,6 +9,7 @@ In the upper left part of the page, there is a side bar panel from which you can
 - the Region of interest
 - the particular Vaccine dose (`Pfizer/BionTech` - `VaxRevia-(AstraZeneca)` - `Moderna`)
 - the variable of interest (absolute numbers of Males, Females, First Doses, Second Doses)
+
 The output plot shows the absolute numbers of vaccine doses submitted in the last day of update in the group ages from `16` to `90+`.
 ### Section 2 - Best Regions
 Here you can select the number of best-scoring Regions in doses usage, and an ordered bar chart in output describe the percentages of doses used on patients as a share of the total doses received.
