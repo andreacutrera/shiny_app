@@ -1,7 +1,15 @@
+
+<h1 align="center">Coding for Data Science Project: A shiny app to visualize VACCINATION CAMPAIGN against SARS-CoV-2 in Italy</h1>
+
+<div align="center">
+<img src="logo.png" width="150">
+</div>
+<div align="center">
+  Andrea Pio Cutrera - Matriculation Number: 965591
+</div>
+<br />
 ### Coding for Data Science Project: A shiny app to visualize VACCINATION CAMPAIGN against SARS-CoV-2 in Italy
 #### Andrea Pio Cutrera - Matriculation Number: 965591
-
-https://github.com/italia/covid19-opendata-vaccini/blob/master/logo.png?raw=true![image](https://user-images.githubusercontent.com/54136571/114607286-a01cb800-9c9c-11eb-9596-91657a3632d6.png)
 
 
 This is a _Shiny App_ that makes an easy visualization of the **Vaccination Campaign** against **SARS-CoV-2** in Italy started in `27-12-2020`.
