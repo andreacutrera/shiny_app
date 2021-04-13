@@ -66,8 +66,8 @@ shiny::runGitHub("shiny_app", "andreacutrera", ref="main")
 - (<https://www.rstudio.com/products/rstudio/download/#download>)
 
 ## References
-- World Health Organization: (COVID-19) pandemic <https://www.who.int/emergencies/diseases/novel-coronavirus-2019>
-- World Health Organization:  <https://www.who.int/health-topics/vaccines-and-immunization#tab=tab_1>
+- World Health Organization: COVID-19 pandemic <https://www.who.int/emergencies/diseases/novel-coronavirus-2019>
+- World Health Organization: Vaccines and immunization <https://www.who.int/health-topics/vaccines-and-immunization#tab=tab_1>
 - European Medicines Agency: <https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/treatments-vaccines/vaccines-covid-19/covid-19-vaccines-key-facts>
 - Istituto Superiore di Sanità: Vaccini <https://www.iss.it/vaccini-covid-19>
 
