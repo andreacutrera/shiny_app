@@ -1,4 +1,4 @@
-## Coding for Data Science Project: A shiny app to visualize VACCINATION CAMPAIGN against SARS-CoV-2 in Italy
+### Coding for Data Science Project: A shiny app to visualize VACCINATION CAMPAIGN against SARS-CoV-2 in Italy
 #### Andrea Pio Cutrera - Matriculation Number: 965591
 
 This is a _Shiny App_ that makes an easy visualization of the **Vaccination Campaign** against **SARS-CoV-2** in Italy started in `27-12-2020`.
@@ -6,7 +6,7 @@ The App scrapes data from the open repository of the **Civil Protection Departme
 
 There are three sections accessible in the upper panel, and they are named (in order from the left to the right): `Age Ranges`, `Best Regions` and `Analysis`.
 
-### Section 1 - Age Ranges
+#### Section 1 - Age Ranges
 
 In this section in the upper left part of the page, there is a side bar panel from which you can select:
 - the Region of interest (`19 Regions` and `2 Autonomous Provinces`)
@@ -15,11 +15,11 @@ In this section in the upper left part of the page, there is a side bar panel fr
 
 The output plot shows the absolute numbers of vaccine doses submitted in the last day of update (update occurs usually at 05:00 p.m. CEST) in 9 groups of ages from `16` to `90+`, since the `eligible people to the vaccine` are the subset of population older than 16 (`50,773,718`).
 
-### Section 2 - Best Regions
+#### Section 2 - Best Regions
 
 In this section you can select from a slider the number of `best-scoring Regions` in doses usage; an ordered bar chart (descending) in output describes the percentages of doses used on patients as a share of the total doses received by the central Government. So the value of the bar is a percentage.
 
-### Section 3 - Analysis
+#### Section 3 - Analysis
 
 In this section you can visualize an interactive `pie chart` in which you can select:
 - the Region of interest
