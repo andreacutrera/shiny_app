@@ -9,11 +9,11 @@
 </div>
 <br />
 
-The app is reachable at: <https://andreacutrera.shinyapps.io/shiny_app/>
 
 ## A Shiny App to visualize _Vaccination Campaign_ against SARS-CoV-2 in Italy
 ### Andrea Pio Cutrera - Matriculation Number: 965591
 
+The app is reachable at: <https://andreacutrera.shinyapps.io/shiny_app/>
 
 This is a _Shiny App_ that makes an easy visualization of the **Vaccination Campaign** against **SARS-CoV-2** in Italy started in `27-12-2020`.
 The App scrapes data from the open repository of the **_Extraordinary Commissioner for Covid-19 Emergency of the Ministry Council_** (<https://github.com/italia/covid19-opendata-vaccini>), which makes a daily update of detailed data at regional level in order to report transparently the surveillance  for the contrast to Covid-19 (<https://www.governo.it/it/cscovid19>).
