@@ -3,12 +3,13 @@
 
 This is a shiny app that makes an easy visualization of the **Vaccination Campaign against SARS-CoV-2** in Italy started in `27-12-2020`.
 The App scrapes data from the open repository of the **Civil Protection Department of Italy** (<https://github.com/italia/covid19-opendata-vaccini>), which makes a daily update of detailed data at regional level.
-There are three sections accessible in the upper panel, and they are (in order from the left to the right): Age Ranges, Best Regions and Analysis.
+There are three sections accessible in the upper panel, and they are (in order from the left to the right): `Age Ranges`, `Best Regions` and `Analysis`.
 ### Section 1 - Age Ranges
 In the upper left part of the page, there is a side bar panel from which you can select:
 - the Region of interest
-- the particular Vaccine dose (_Pfizer/BionTech - VaxRevia-(AstraZeneca) - Moderna_)
-- the variable of interest (absolute numbers of Males, Females, First Dose, Second Dose)
+- the particular Vaccine dose (`Pfizer/BionTech` - `VaxRevia-(AstraZeneca)` - `Moderna`)
+- the variable of interest (absolute numbers of Males, Females, First Doses, Second Doses)
+The output plot shows the absolute numbers of vaccine doses submitted in the last day of update in the group ages from `16` to `90+`.
 ### Section 2 - Best Regions
 Here you can select the number of best-scoring Regions in doses usage, and an ordered bar chart in output describe the percentages of doses used on patients as a share of the total doses received.
 ### Section 3 - Analysis
