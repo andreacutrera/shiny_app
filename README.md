@@ -25,7 +25,7 @@ In this section in the upper left part of the page, there is a side bar panel fr
 - the particular Vaccine dose (`Pfizer/BionTech` - `VaxRevia-(AstraZeneca)` - `Moderna`)
 - the variable of interest (absolute numbers of `Males`, `Females`, `First Doses`, `Second Doses`)
 
-The output plot shows the absolute numbers of vaccine doses submitted in the last day of update (update occurs usually at 05:00 p.m. CEST) in 9 age groups from `16` to `90+`, since the `eligible people to the vaccine` are the subset of population older than 16 (`50,773,718`).
+The output plot shows the absolute numbers of vaccine doses submitted in the last day of update (update occurs usually at 05:00 p.m. CEST) in 9 age groups from `16` to `90+`, since the `eligible people to the vaccine` are the subset of population older than 16 (`50,773,718` individuals).
 
 #### Section 2 - Best Regions
 
