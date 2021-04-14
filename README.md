@@ -43,7 +43,7 @@ In this section you can visualize an interactive `pie chart` in which you can se
 Percentages of doses, split between `Men` and `Women`, are plotted in a pie chart.
 
 ## How to run the Application
-### Specific commands
+### Specific commands to run app in local
 
 In order to run this app, you must have R and RStudio (below the links) installed on your personal computer.
 Then you can execute the following line on your RStudio console:
